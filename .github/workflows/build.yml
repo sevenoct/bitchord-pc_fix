@@ -40,9 +40,10 @@ jobs:
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force out | Out-Null
-          Copy-Item target\release\bitchord.exe out          $dll = Get-ChildItem -Path "target\release\build\*\out\x64\WebView2Loader.dll" -ErrorAction SilentlyContinue | Select-Object -First 1
-          if (-not $dll) { $dll = Get-ChildItem -Path "$HOME\.cargo\registry\src\*\webview2-com-sys-*\x64\WebView2Loader.dll" -ErrorAction SilentlyContinue | Select-Object -First 1 }
-          if ($dll) { Copy-Item $dll.FullName out\ } else { Write-Warning "WebView2Loader.dll not found" }
+          Copy-Item target\release\bitchord.exe out\
+          $found = Get-ChildItem -Path target -Recurse -Filter WebView2Loader.dll -ErrorAction SilentlyContinue
+          $x64 = $found | Where-Object { $_.FullName -like '*x64*' } | Select-Object -First 1
+          if ($x64) { Copy-Item $x64.FullName out\ }
           Get-ChildItem out
 
       - uses: actions/upload-artifact@v5
