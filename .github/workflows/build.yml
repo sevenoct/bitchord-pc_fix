@@ -1,0 +1,51 @@
+name: Build BitChord exe
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      # Repo-mu sendiri: berisi bitchord-all-changes.patch
+      - uses: actions/checkout@v5
+        with:
+          path: mine
+
+      # Source resmi, dikunci ke commit yang cocok dengan patch
+      - uses: actions/checkout@v5
+        with:
+          repository: jackychan4891/BitChord-PC-Official
+          ref: 7ed3e48450d8c51b76c1b429855079e515a4e723
+          path: src
+
+      - name: Apply patch
+        shell: bash
+        run: |
+          cd src
+          git apply --whitespace=nowarn ../mine/bitchord-all-changes.patch
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: src
+
+      - name: Build
+        working-directory: src
+        run: cargo build --release --locked
+
+      - name: Stage files
+        working-directory: src
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force out | Out-Null
+          Copy-Item target\release\bitchord.exe out          $dll = Get-ChildItem -Path "target\release\build\*\out\x64\WebView2Loader.dll" -ErrorAction SilentlyContinue | Select-Object -First 1
+          if (-not $dll) { $dll = Get-ChildItem -Path "$HOME\.cargo\registry\src\*\webview2-com-sys-*\x64\WebView2Loader.dll" -ErrorAction SilentlyContinue | Select-Object -First 1 }
+          if ($dll) { Copy-Item $dll.FullName out\ } else { Write-Warning "WebView2Loader.dll not found" }
+          Get-ChildItem out
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: bitchord-windows
+          path: src/out/
