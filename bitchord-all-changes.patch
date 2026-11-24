@@ -42,6 +42,160 @@ index 0000000..60e2d20
 +          name: bitchord-windows-x64
 +          path: out
 +          if-no-files-found: error
+diff --git a/assets/icon/glyphs/home_filled.png b/assets/icon/glyphs/home_filled.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..f8a520df18e4c0f1b0dfe380db230592413a4136
+GIT binary patch
+literal 1278
+zcmeAS@N?(olHy`uVBq!ia0y~yU}OMc4mJh`hM1xiX$%Z3M?GB}Ln>~)z3b~Q;w{nk
+zFr7iML+#iD_K7S#-2eXXFMN1ts<o3-Ll4Ka?s=_BDk(YbFRRvT7p9+^_-@_oRkPY=
+zZN0{HWy?dM1_lNu1`Y-V25K>InRLKpi~GOIcR`#CwH04)AE;Y%`sn@o=bygjUW+Og
+z{q?WU{#5a!pjnItvbUA_{zZs!FkJp<cJllG5BK-_6utQr#dP8Sl>3to@Gvyj>;8-9
+zV92&mm_4(B;lq}BwjawM&-X05%f^`SHBNnJTyy>L&`HkQmCYC<XHHg`fBj=+QTDRb
+z)2bWpZP!oWY&a-CUx0(*b!KrA^J>+bg|}H6dOjVtF&F+*etxpdj@pf!Cob8k{=9U!
+z_*vL7HHFmcm(19888!AzOk1VNVDqT%i%mdO+jen5hIbV+pKLpDy>jkDT{o77*2OB%
+zTld`y_HMetvgFUL8_yO<HXM8}rNFTDjLnaF*M!Td0u5Z>jQ+^j*6%v`;hHkjg|&xO
+z#Ptq0pEKI?w<El9ZK>{L17?FCvBoS1nq$7*s&r#bm{i8|FYr!Ug|`snjGks5d;aql
+z=ZyF0dgd_A`gB|72+x5B<-LLo{L9WdvM7}LKlgli_Mq)_M}~QqX0JK^(k3+a$V!)u
+zoEfM3&pH}2G~c&%WU$GoJIKK_;nnibAx}>fF?L+8%-Y=*+{vQwSoUb`Gb5jK=EmE8
+zEM0Kz_q&C)j37OGT^Qz^3$|hE(-Cj5n7e#kW!rZ1PIJcM^Dk}UW7+cgj;Sp$RRV<%
+zPu-nr#tk>yl~1!O%$<8Kd2@e={id43FKs5ISZw;EV#m7SnX;WC$b%a#H5l?VloS|*
+z=be)L^T(TI+grvJ7T;LTF!0pvG1XvTv)BB!`WVZB2gi>sU|?WcaA5{3D0QCdiG(E3
+z16g|tv`@aOZ_L@lmE-HSM=6Jmg5(QLtRWkp3LTkvr7&c-But1}Sprw)3OHTJAAe-c
+z)@!GEGhOBO%>4bpZU!SrwZkNtopaZmIG%USQ1&fjNM!vj<^ujR3=E7fww<Xs#*$#U
+zdtRVTbSble|EBkmsVTp^)4dtg9+;eDKd+-)xxZrBujun7-!u=zMtjypG#^{eaQe1q
+z(cQOgZqFHCd|W8PaJ}lv`w5y`ild*}mh#lRXS69uPVY9Az4JY1$}f$br-T>`m>F0Y
+q1Q-Mu96&`5h)FF5x=Fu2am$(=wd(uLd4Pd|fx*+&&t;ucLK6TiW3KA}
+
+literal 0
+HcmV?d00001
+
+diff --git a/assets/icon/glyphs/library_filled.png b/assets/icon/glyphs/library_filled.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..25f9c6b1e9fb55d6c035a45b69648aea89701947
+GIT binary patch
+literal 1915
+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
+
+literal 0
+HcmV?d00001
+
+diff --git a/assets/icon/glyphs/search_filled.png b/assets/icon/glyphs/search_filled.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..23b8b8260b2489d306a12cdfeadd7f3772dfd0dc
+GIT binary patch
+literal 1527
+zcmb`GdrVVz6vxl+a>08$s4a9j1);N8K?@?vQyvvNCo2MOW&sOQUlWv<@~Rc#*1F+?
+zz*Y<}SD;Qa8es}<AS%cOhqz&VA%TIF#{eIU*KiXQ%EC;RESmkX?2nW4&B@94eE;~I
+zqai`>n=uwJ0KhC@z34*#1hYk$06_RY?I!@nR|7<AHpx1M^Z~&f$vaIw8Oubb9rt$g
+zmcG03^k*Y8(Mf|1h{swHB)wFwXC+9rPYxFS(7Iu`w&<*(^+1rj?o9MaaE++Ixj+G6
+zK*0Yc{^67~uwONR8OkId1i3_?yuS3=+LkrpTQ;XyfL<p5)j?l1ugUPT)afWm?e*!u
+z{WL`tkuL`A_}6~A&8ma>8(|`KS%7cOSo+@RLX>d1wb5cG@%n0=Y#RYh4>s30Ga0da
+z4htdXl;!fnwGEG~a`Yy*z<Rhs)mOUH8D;73AD<CLmNkzG!m!|Jap>u2RZd=mr8F@2
+z-WNMZt4=uzeFnEo@%a*Pcit6w%__h*jA22|%h)g{U?6V|)JzP@^LMnk5JHpDdK;&v
+zQoGv%Wh(NX9Ahd-`goU|2XX5Lv!R+4%Xg4!BpWN4%KSD(paj`io2yuFTWSf*(`#0C
+zn{piw{^HmWSWik-eVNU1=9&S#yV1|o-BCf(vS<d4Q{#Zsx=nXo#awt)+2gY7M&znv
+zpl;rizyD5JrqCK&Fujo2hH;rV8{EwZ_-1w;!zc$p3Aq$WRmh{r-b5&=wu*G@Pedoo
+zsIf>WH|8>p94w)3AA=E(yx)#7DmSLxsNE<u(c#pvCEY^1fdr0)UBEG6M3<uiZbq!r
+z9x##4j97yNgaAmBwIq+854VuL2a?SJMlci^3P6os2j*{xj4Jxg{nKnAeF5v02jJAk
+zD_hB47HbZ5Uk&H3WOcVGw`25t__Qn(v!F=2rMTCEN(6gvRDcD7hY@|e_$+Eq@|?}+
+zM&pzt7>9p{V+pFSoTAAtfdbTh^x}oJ$>MHP+LNmF<AXavK#_r<tc-DL@8#VjPIE%q
+z=8Cz{{*niAYX4yghCFgEHG4<J3lwv)#!O|Fp#UDNPxh|D`S1}{GV8Hvg*Z<LBF#CT
+zm<wZO4U1z#F;pEGsfxMu?8$g%`g4JDE$zV(_>nc0rhIsW_y`x`B0wy}7J^8Kvw+P)
+zI4wT{aTDP;BuYMFv!D~nZBW-Z7Z!!IuV%9-w?*CCuT5vu5zXDFX<sk(Z*|KPnp_GX
+zhJ4XeHAF#{E0!v_7TFecQ7P?Uwqxz)XFB7@JfGHk>2hmQJp&=u`$<}I>v`MG!l@of
+zT1OF{5{U7sDxE4V!RcP<(I4%kSd?zWXQb>#SL&o`a7r!(Sq~rft}D(S9jU6FxUxZI
+z&Fm}Wu*;1fr-^J{#8(#bCkwXPYC4#NuqN@&`I1Va9Xp{W_&$b^yWcm?)Hzidt-Poq
+zH8~&WT63n8wzt%ma8mXA_>}KtQjAyi<C0OO*zkO=gTJlUg!Tdnffyeix7ayb01F{t
+zv)<gaY=s1aWL~-Z071Z_5DyHa2u?OtY+{#wtb92BhzpXM+fTi<6$kc2#`9RD`6ETT
+z4THM+Fc9K6h=iaK;c6u8Ay#3)e|1S~uGopF%WMx0Xy+q8Q=E5%z8Q81LfRf?)M(nS
+z%Rje=0+aOVFPHr6+h08N^7n3v1lC`u1OA@{3&gKK#J^33UXVXct-5Ms!kGpD2zW0@
+Jbk1LT=uay`58nU)
+
+literal 0
+HcmV?d00001
+
+diff --git a/assets/icon/glyphs/settings_filled.png b/assets/icon/glyphs/settings_filled.png
+new file mode 100644
+index 0000000000000000000000000000000000000000..d1bafc4ca5d1fa6bdd118b79f495bec836866a8d
+GIT binary patch
+literal 2192
+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
+
+literal 0
+HcmV?d00001
+
 diff --git a/assets/icon/icon.ico b/assets/icon/icon.ico
 index fa2dceac79c0effcf54b7499fea4954a2788c28d..4863f3113a4994633badde24d2c46c9a3e1951f0 100644
 GIT binary patch
@@ -1648,10 +1802,21 @@ index a880f76..0b1829b 100644
    </application>
  </assembly>
 diff --git a/src/ui/glyphs.rs b/src/ui/glyphs.rs
-index 288ad8c..f494fcd 100644
+index 288ad8c..4696a38 100644
 --- a/src/ui/glyphs.rs
 +++ b/src/ui/glyphs.rs
-@@ -60,26 +60,48 @@ pub const APPLE_GLYPH: f32 = 24.0;
+@@ -55,31 +55,59 @@ pub const MUSIC_NOTE: &[u8] = include_bytes!("../../assets/icon/glyphs/music_not
+ pub const PLAYLIST: &[u8] = include_bytes!("../../assets/icon/glyphs/playlist.png");
+ pub const RADIO: &[u8] = include_bytes!("../../assets/icon/glyphs/radio.png");
+ 
++/// The tab bar's lit marks: the same four silhouettes as the outline ones, filled in.
++pub const HOME_FILLED: &[u8] = include_bytes!("../../assets/icon/glyphs/home_filled.png");
++pub const SEARCH_FILLED: &[u8] = include_bytes!("../../assets/icon/glyphs/search_filled.png");
++pub const LIBRARY_FILLED: &[u8] = include_bytes!("../../assets/icon/glyphs/library_filled.png");
++pub const SETTINGS_FILLED: &[u8] = include_bytes!("../../assets/icon/glyphs/settings_filled.png");
++
+ /// The size the desktop app draws an Apple silhouette at (`DesktopAppleGlyph`).
+ pub const APPLE_GLYPH: f32 = 24.0;
  /// The size it draws a Lucide mark at (`DesktopLucideGlyph`).
  pub const LUCIDE_GLYPH: f32 = 18.0;
  
@@ -1705,7 +1870,7 @@ index 288ad8c..f494fcd 100644
  /// How far each silhouette's ink runs, as a fraction of its own box, measured from the
  /// PNGs. Apple's symbols carry very different amounts of padding — the radio waves fill
  /// the square, the shuffle arrows fill three quarters of it — so a box size alone says
-@@ -106,8 +128,19 @@ pub fn draw(ui: &Ui, center: Pos2, size: f32, glyph: &'static [u8], tint: Color3
+@@ -106,8 +134,19 @@ pub fn draw(ui: &Ui, center: Pos2, size: f32, glyph: &'static [u8], tint: Color3
      if tint.a() == 0 {
          return;
      }
@@ -1728,10 +1893,18 @@ index 288ad8c..f494fcd 100644
  }
  
 diff --git a/src/ui/mod.rs b/src/ui/mod.rs
-index 252e6b9..8305bf3 100644
+index 252e6b9..94ef72f 100644
 --- a/src/ui/mod.rs
 +++ b/src/ui/mod.rs
-@@ -942,6 +942,9 @@ pub struct App {
+@@ -25,6 +25,7 @@ mod playback;
+ mod queue;
+ mod responses;
+ mod shell;
++mod tabbar;
+ mod titlebar;
+ pub use titlebar::{custom as custom_titlebar, set_hwnd as set_titlebar_hwnd};
+ mod transfer;
+@@ -942,6 +943,9 @@ pub struct App {
      /// Light or dark pages (the ytm-rs theme's; see `light_pages`).
      appearance: theme::Appearance,
      anim_bg: bool,
@@ -1741,7 +1914,7 @@ index 252e6b9..8305bf3 100644
      page_blobs: bool,
      reactive_bg: bool,
      /// Power saver: the shader blurs behind pages and the player stand down for a flat
-@@ -1393,6 +1396,7 @@ impl App {
+@@ -1393,6 +1397,7 @@ impl App {
              // Dev hook: YTM_APPEARANCE=light|dark|system tries a mode without saving it.
              appearance: theme::Appearance::from_key(&dev_var("YTM_APPEARANCE").map(str::to_owned).or_else(|| get("appearance")).unwrap_or_default()),
              anim_bg: get("anim_bg").is_none_or(|v| v == "1"),
@@ -1749,7 +1922,7 @@ index 252e6b9..8305bf3 100644
              page_blobs: get("page_blobs").is_some_and(|v| v == "1"),
              reactive_bg: get("reactive_bg").is_none_or(|v| v == "1"),
              disable_blur: get("disable_blur").is_some_and(|v| v == "1"),
-@@ -1989,6 +1993,7 @@ impl App {
+@@ -1989,6 +1994,7 @@ impl App {
          }
          if has_window {
              fit_window_to_monitor(ctx);
@@ -1757,7 +1930,7 @@ index 252e6b9..8305bf3 100644
          }
          // Dev hook: YTM_MINI=<secs>[,<secs>…] switches between the mini player and the
          // full window at those times (YTM_MINI=1: the mini player after a second).
-@@ -2040,12 +2045,18 @@ impl App {
+@@ -2040,12 +2046,18 @@ impl App {
                  ctx.request_repaint_after(Duration::from_millis(250));
              }
          } else if self.np_open && playing && !self.mini.busy() {
@@ -1778,7 +1951,16 @@ index 252e6b9..8305bf3 100644
          } else if playing || self.buffering {
              ctx.request_repaint_after(Duration::from_millis(250));
          }
-@@ -2392,6 +2403,7 @@ impl eframe::App for App {
+@@ -2211,6 +2223,8 @@ impl eframe::App for App {
+                         shell::player_bar(self, ui, now, true);
+                     });
+                 });
++            // Mochy's floating tab bar, centred over the page and hung above the player.
++            tabbar::show(self, &ctx, section.left(), main_right);
+         }
+         if np > 0.001 {
+             let pages = theme::set_mode(&ctx, false);
+@@ -2392,6 +2406,7 @@ impl eframe::App for App {
              storage.set_string("font", theme::font_choice());
          }
          storage.set_string("anim_bg", b(self.anim_bg));
@@ -1786,7 +1968,7 @@ index 252e6b9..8305bf3 100644
          storage.set_string("page_blobs", b(self.page_blobs));
          storage.set_string("reactive_bg", b(self.reactive_bg));
          storage.set_string("disable_blur", b(self.disable_blur));
-@@ -2543,6 +2555,43 @@ struct PlayingAs {
+@@ -2543,6 +2558,43 @@ struct PlayingAs {
  }
  
  
@@ -1933,3 +2115,198 @@ index 899a3c7..2a54247 100644
          setting_row(ui, "Pulse with the music", Some("The background swells with the beat."), |ui| {
              toggle(ui, &mut app.reactive_bg, "Pulse with the music");
          });
+diff --git a/src/ui/shell.rs b/src/ui/shell.rs
+index 96240d4..5c9e636 100644
+--- a/src/ui/shell.rs
++++ b/src/ui/shell.rs
+@@ -872,6 +872,21 @@ pub fn grey_frost(app: &App, ui: &Ui, rect: Rect, radius: f32, alpha: f32) {
+     ui.painter().rect_stroke(rect, radius, egui::Stroke::new(1.0, theme::with_alpha(theme::glass(0.16), alpha)), egui::StrokeKind::Inside);
+ }
+ 
++/// Mochy Music's chrome glass, for the tab bar: the song's light and shade blurred behind
++/// the shape, 78% of the chrome colour over it (dark in the dark theme), and a 5% hairline
++/// just inside the edge. Without a sleeve to blur it is the chrome colour alone, a little
++/// firmer so the glyphs still read.
++pub fn chrome_glass(app: &App, ui: &Ui, rect: Rect, radius: f32) {
++    let frost = frost_grey(app, ui.ctx());
++    if let Some(soft) = &frost {
++        frost_slice(ui, rect, radius, soft);
++    }
++    let a: u8 = if frost.is_some() { 199 } else { 225 };
++    let tint = if theme::light() { Color32::from_rgba_unmultiplied(246, 246, 248, a) } else { Color32::from_rgba_unmultiplied(18, 18, 20, a) };
++    ui.painter().rect_filled(rect, radius, tint);
++    ui.painter().rect_stroke(rect, radius, Stroke::new(1.0, theme::glass(0.05)), egui::StrokeKind::Inside);
++}
++
+ /// An opened release's own sleeve blown up behind its page. The blur is the cover's, so
+ /// the page wears its colours; it dims and fades into the page ground before the first
+ /// row, so the words on top never have to fight the picture.
+diff --git a/src/ui/tabbar.rs b/src/ui/tabbar.rs
+new file mode 100644
+index 0000000..3e4266f
+--- /dev/null
++++ b/src/ui/tabbar.rs
+@@ -0,0 +1,163 @@
++//! The floating tab bar, after Mochy Music's Android navigation bar.
++//!
++//! A stadium of dark frosted glass hung above the player. One glyph per tab, outline
++//! when it is off and filled when it is lit, crossfading over 200 ms. One pill sits
++//! behind the lit tab and stretches from tab to tab: its front edge springs ahead of
++//! the back one, so it reaches for the new tab and settles into it instead of sliding
++//! over as a block. A press lifts the pill (it swells a little and brightens) and the
++//! glyph under the pointer squishes to 85%. Pressing and dragging sideways carries the
++//! pill along, and the tab it is let go on opens.
++//!
++//! Measured off Mochy's `AppNavigation.kt` and `NavPill.kt`: a 64 dp bar, the pill
++//! 8 dp in from its top, bottom and ends, 4 dp between neighbouring pills, glyphs at
++//! 22 (Home, Search) and 24 dp, unlit ones at 70%, the lit pill white at 10%, the glass
++//! 78% dark over the blurred cover with a 5% hairline and a faint shadow. A desktop
++//! window is wide, so the bar keeps its own width and floats centred over the page.
++
++use egui::{Rect, Sense, Ui, pos2, vec2};
++
++use super::{Action, App, LibTab, Page, glyphs, shell, widgets};
++use crate::theme;
++
++/// The bar's height. Mochy's is 64 dp on a phone; this is a notch smaller for a desktop.
++const H: f32 = 56.0;
++/// One tab's width.
++const SLOT: f32 = 64.0;
++/// How far the pill sits in from the bar's top, bottom and ends.
++const INSET: f32 = 7.0;
++/// Room between a pill and where its neighbour's would be.
++const GAP: f32 = 4.0;
++/// Half the gap is the row's padding and half is inside each slot, so the pill sits as
++/// far from the ends as from the top and bottom.
++const PAD: f32 = INSET - GAP / 2.0;
++/// The bar's width.
++pub const W: f32 = SLOT * 4.0 + PAD * 2.0;
++/// Space between the bar and the player pill under it.
++const ABOVE_PLAYER: f32 = 8.0;
++
++struct Tab {
++    name: &'static str,
++    off: &'static [u8],
++    on: &'static [u8],
++    size: f32,
++}
++
++const TABS: [Tab; 4] = [
++    Tab { name: "Home", off: glyphs::HOME, on: glyphs::HOME_FILLED, size: 22.0 },
++    Tab { name: "Search", off: glyphs::SEARCH, on: glyphs::SEARCH_FILLED, size: 22.0 },
++    Tab { name: "Library", off: glyphs::LIBRARY, on: glyphs::LIBRARY_FILLED, size: 24.0 },
++    Tab { name: "Settings", off: glyphs::SETTINGS, on: glyphs::SETTINGS_FILLED, size: 24.0 },
++];
++
++/// The tab the page on screen belongs to. A page no tab owns (an album, an artist)
++/// lights none, and the pill fades out where it was.
++fn lit_tab(page: &Page) -> Option<usize> {
++    match page {
++        Page::Home | Page::New => Some(0),
++        Page::Search(_) => Some(1),
++        Page::Library(_) | Page::Downloads => Some(2),
++        Page::Settings | Page::Transfer => Some(3),
++        _ => None,
++    }
++}
++
++/// Opens a tab the way the sidebar's rows do.
++fn open(app: &mut App, i: usize) {
++    let page = match i {
++        0 => Page::Home,
++        1 => {
++            // Search lands with the caret in the box; already there, it brings the box back.
++            app.search_refocus = true;
++            if matches!(app.page, Page::Search(_)) {
++                return;
++            }
++            Page::Search(String::new())
++        }
++        2 => Page::Library(LibTab::Playlists),
++        _ => Page::Settings,
++    };
++    app.actions.push(Action::Go(page));
++}
++
++/// Draws the bar centred between `left` and `right`, above the player pill.
++pub fn show(app: &mut App, ctx: &egui::Context, left: f32, right: f32) {
++    if right - left < W + 32.0 {
++        return;
++    }
++    let bottom = ctx.content_rect().bottom() - app.bar_height() - ABOVE_PLAYER;
++    let at = pos2((left + right) / 2.0 - W / 2.0, bottom - H);
++    egui::Area::new(egui::Id::new("tab-bar"))
++        .fixed_pos(at)
++        .order(egui::Order::Middle)
++        .show(ctx, |ui| bar(app, ui));
++}
++
++fn bar(app: &mut App, ui: &mut Ui) {
++    let ctx = ui.ctx().clone();
++    let (rect, resp) = ui.allocate_exact_size(vec2(W, H), Sense::click_and_drag());
++    let resp = resp.on_hover_cursor(egui::CursorIcon::PointingHand);
++    let tab_at = |x: f32| ((x - rect.left() - PAD) / SLOT).floor().clamp(0.0, 3.0) as usize;
++    let pointer = ui.input(|i| i.pointer.latest_pos());
++    let pressed = resp.is_pointer_button_down_on();
++    // The tab under a finger that is down on the bar: it is lit and carries the pill
++    // while the finger is down, wherever the page says it is.
++    let held = if pressed { pointer.map(|p| tab_at(p.x)) } else { None };
++    let lit = lit_tab(&app.page);
++
++    // Where the pill is headed. With no lit tab it stays where it was, and fades.
++    let rest_id = egui::Id::new("tab-bar-rest");
++    let rest: f32 = ctx.data(|d| d.get_temp(rest_id)).unwrap_or(0.0);
++    let target = held.or(lit).map_or(rest, |i| i as f32);
++    ctx.data_mut(|d| d.insert_temp(rest_id, target));
++
++    // Its front edge springs to the new tab faster than the back one.
++    let dir_id = egui::Id::new("tab-bar-dir");
++    let (prev, right): (f32, bool) = ctx.data(|d| d.get_temp(dir_id)).unwrap_or((target, true));
++    let right = if (target - prev).abs() > 0.01 { target > prev } else { right };
++    ctx.data_mut(|d| d.insert_temp(dir_id, (target, right)));
++    let (back_secs, front_secs) = (0.30, 0.14);
++    let (start_secs, end_secs) = if right { (back_secs, front_secs) } else { (front_secs, back_secs) };
++    let start = theme::anim(&ctx, "tab-bar-start", target, start_secs);
++    let end = theme::anim(&ctx, "tab-bar-end", target, end_secs);
++    let (start, end) = (start.min(end), start.max(end));
++    let shown = theme::anim_bool(&ctx, "tab-bar-shown", held.is_some() || lit.is_some(), 0.2);
++    let lift = theme::anim_bool(&ctx, "tab-bar-lift", pressed, 0.14);
++
++    // The glass: a faint shadow under it, the blurred cover with its dark tint, a hairline.
++    let radius = H / 2.0;
++    widgets::soft_shadow(ui, rect, radius, 18.0, 0.18);
++    shell::chrome_glass(app, ui, rect, radius);
++
++    // The pill: it swells past its slot and brightens while a finger is on it.
++    let grow = lift * 3.0;
++    let x0 = rect.left() + PAD + start * SLOT + GAP / 2.0;
++    let x1 = rect.left() + PAD + (end + 1.0) * SLOT - GAP / 2.0;
++    let pill = Rect::from_min_max(
++        pos2(x0 - grow, rect.top() + INSET - grow),
++        pos2(x1 + grow, rect.bottom() - INSET + grow),
++    );
++    let pill_color = theme::with_alpha(theme::glass(0.10 * (1.0 + 0.7 * lift)), shown);
++    ui.painter().rect_filled(pill, pill.height() / 2.0, pill_color);
++
++    // The glyphs: outline at 70% when off, filled at full when lit, one fading into the other.
++    let ink = theme::text();
++    for (i, tab) in TABS.iter().enumerate() {
++        let on = held.or(lit) == Some(i);
++        let lit_amount = theme::anim_bool(&ctx, ("tab-bar-lit", i), on, 0.2);
++        let squish = theme::anim_bool(&ctx, ("tab-bar-squish", i), held == Some(i), 0.1);
++        let size = tab.size * (1.0 - 0.15 * squish);
++        let centre = pos2(rect.left() + PAD + (i as f32 + 0.5) * SLOT, rect.center().y);
++        glyphs::draw(ui, centre, size, tab.off, theme::with_alpha(ink, 0.7 * (1.0 - lit_amount)));
++        glyphs::draw(ui, centre, size, tab.on, theme::with_alpha(ink, lit_amount));
++    }
++
++    if let Some(p) = resp.hover_pos() {
++        let _ = resp.clone().on_hover_text(TABS[tab_at(p.x)].name);
++    }
++    // A tap opens the tab under it; a drag opens the one it is let go on.
++    if resp.clicked() || resp.drag_stopped() {
++        if let Some(p) = pointer {
++            open(app, tab_at(p.x));
++        }
++    }
++}
