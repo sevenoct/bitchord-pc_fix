@@ -1,12 +1,18 @@
 name: Build BitChord exe
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: windows-latest
     steps:
+      # Windows mengubah LF jadi CRLF saat checkout, dan itu merusak patch.
+      - name: Matikan konversi CRLF
+        run: git config --global core.autocrlf false
+
       # Repo-mu sendiri: berisi bitchord-all-changes.patch
       - uses: actions/checkout@v5
         with:
